@@ -1,6 +1,7 @@
 body{
 background-size: cover;
 background-position: center;
+font-family: 'Dosis', Century Gothic;
 }
 .heading{
 width: 100%;
@@ -19,4 +20,7 @@ border: 5px solid white;
 }
 #status, #found{
 font-size: 20px;
+}
+label{
+color: white;
 }
